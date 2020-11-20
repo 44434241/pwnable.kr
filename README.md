@@ -5,7 +5,7 @@
 
 ## **Todler's Bottle**
 
-* [x] fd~
+* [x] fd
 * [x] collision
 * [x] bof
 * [ ] flag
