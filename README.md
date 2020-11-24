@@ -10,8 +10,8 @@
 * [x] bof
 * [ ] flag
 * [ ] passcode
-* [ ] random
-* [ ] input
+* [x] random
+* [x] input
 * [ ] leg
 * [ ] mistake
 * [ ] shellshock
